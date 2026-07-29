@@ -1,7 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Daronica! <br/><a href="https://github.com/RoniBonJoniCyber">, <a href="https://linkedin.com/in/daronica-johnson-santos-5708a9217">Comptia Security+ Certified</a></h2>
+
+<h2>👨‍💻 Projects:</h2>
+
+- <h3> Active Directory Lab</h3>
+
+- <h3> Ticket System Set up</h3>
+
+- <h3> Popular YouTube Videos</h3>
+
+
+<!-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)-->
+
+
+<h3> 🤳 Connect with me:</h3>
+
+[<"linkedin.com/in/daronica-johnson-santos-5708a9217" />][linkedin]
+
+[linkedin]: 
+linkedin.com/in/daronica-johnson-santos-5708a9217
 
 <!--
-**RoniBonJoniCyber/RoniBonJoniCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
