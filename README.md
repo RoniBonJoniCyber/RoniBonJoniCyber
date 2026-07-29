@@ -6,13 +6,19 @@
 
 - <h3> Ticket System Set up</h3>
 
-- <h3> Popular YouTube Videos</h3>
+
+<h2>👨‍💻 Certifications:</h2>
+
+- <h3> (https://cp.certmetrics.com/comptia/en/credentials/status/6718493) </h3>
+
+
+<!-- <h3> Popular YouTube Videos</h3>-->
 
 
 <!-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)-->
 
 
-<h3> 🤳 Connect with me:</h3>
+<h2> 🤳 Connect with me:</h2>
 
 [<"linkedin.com/in/daronica-johnson-santos-5708a9217" />][linkedin]
 
