@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <h3> Active Directory Lab</h3>,  <(https://imgur.com/a/XbxNhCZ)>
+- <h3> Active Directory Lab</h3>,  <(<blockquote class="imgur-embed-pub" lang="en" data-id="a/XbxNhCZ" data-context="false" ><a href="//imgur.com/a/XbxNhCZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)>
 
 - <h3> Ticket System Set up</h3>
 
