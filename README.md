@@ -2,9 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-Active Directory Lab: <br/>
-<img src="https://imgur.com/ns6MYOW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<br/>
+Active Directory Lab
 
 Ticket System Set up
 
