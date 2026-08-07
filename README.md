@@ -3,13 +3,15 @@
 <h2>👨‍💻 Projects:</h2>
 
 Active Directory Lab: <br/>
-<img src="https://imgur.com/ns6MYOW">
+<img src="https://imgur.com/ns6MYOW"/> 
+<br/>
 
 - <h3> Ticket System Set up</h3>
 
 
 <h2>👨‍💻 Certifications:</h2>
 
+CompTIA Security+ 
 - <h3> (https://cp.certmetrics.com/comptia/en/credentials/status/6718493) </h3>
 
 
