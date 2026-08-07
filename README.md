@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 Active Directory Lab: <br/>
-<img scr="https://imgur.com/a/XbxNhCZ/>
+<img src="https://imgur.com/a/XbxNhCZ/">
 
 - <h3> Ticket System Set up</h3>
 
