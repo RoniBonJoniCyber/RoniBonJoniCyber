@@ -10,7 +10,9 @@ Ticket System Set up
 
 <a href="https://cp.certmetrics.com/comptia/en/credentials/status/6718493)">CompTIA Security+ </a></h2>
 
-
+<a href="https://imgur.com/a/OKRSRw6">CompTIA Security+ </a></h2>
+ 
+https://imgur.com/a/OKRSRw6
 <!-- <h3> Popular YouTube Videos</h3>-->
 
 
