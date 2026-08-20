@@ -8,11 +8,10 @@ Ticket System Set up
 
 <h2>👨‍💻 Certifications:</h2>
 
-<a href="(https://github.com/RoniBonJoniCyber/screenshots-images/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)">CompTIA Security+ </a></h2>
+<a href="(https://github.com/RoniBonJoniCyber/screenshotsimages/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)">CompTIA Security+ </a></h2>
 
  
-https://imgur.com/a/OKRSRw6
-<!-- <h3> Popular YouTube Videos</h3>-->
+
 
 
 <!-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)-->
