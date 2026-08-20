@@ -8,7 +8,7 @@ Ticket System Set up
 
 <h2>👨‍💻 Certifications:</h2>
 
-<a href="https://cp.certmetrics.com/comptia/en/credentials/status/6718493)">CompTIA Security+ Certificate Lab</a></h2>
+<a href="https://cp.certmetrics.com/comptia/en/credentials/status/6718493)">CompTIA Security+ </a></h2>
 
 
 <!-- <h3> Popular YouTube Videos</h3>-->
