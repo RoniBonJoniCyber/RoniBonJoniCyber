@@ -8,7 +8,7 @@ Ticket System Set up
 
 <h2>👨‍💻 Certifications:</h2>
 
-<a href="CompTIA Security+ ce certificate.pdf">CompTIA Security+ </a></h2>
+<a href="https://github.com/RoniBonJoniCyber/screenshots-images/blob/7043513e255b67d710756a87f68e1b8c77f92393/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+ </a></h2>
 
  
 
