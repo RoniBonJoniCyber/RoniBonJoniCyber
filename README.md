@@ -19,7 +19,7 @@ Ticket System Set up
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href=""linkedin.com/in/daronica-johnson-santos-5708a9217"">Active Directory Lab</a></h2>
+<a href="linkedin.com/in/daronica-johnson-santos-5708a9217">Linkedin</a></h2>
 
 [<"linkedin.com/in/daronica-johnson-santos-5708a9217" />][linkedin]
 
