@@ -8,9 +8,8 @@ Ticket System Set up
 
 <h2>👨‍💻 Certifications:</h2>
 
-<a href="https://cp.certmetrics.com/comptia/en/credentials/status/6718493)">CompTIA Security+ </a></h2>
+<a href="(https://github.com/RoniBonJoniCyber/screenshots-images/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)">CompTIA Security+ </a></h2>
 
-<a href="https://imgur.com/a/OKRSRw6">CompTIA Security+ </a></h2>
  
 https://imgur.com/a/OKRSRw6
 <!-- <h3> Popular YouTube Videos</h3>-->
