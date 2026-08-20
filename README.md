@@ -10,24 +10,18 @@ Ticket System Set up
 
 <a href="https://github.com/RoniBonJoniCyber/screenshots-images/blob/7043513e255b67d710756a87f68e1b8c77f92393/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+ </a></h2>
 
- 
-
-
-
-<!-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)-->
 
 
 <h2> 🤳 Connect with me:</h2>
 
 <a href="http://linkedin.com/in/daronica-johnson-santos-5708a9217">Linkedin</a></h2>
 
-[<"linkedin.com/in/daronica-johnson-santos-5708a9217" />][linkedin]
-
-[linkedin]: 
-linkedin.com/in/daronica-johnson-santos-5708a9217
+  
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)-->
 
 Here are some ideas to get you started:
 
